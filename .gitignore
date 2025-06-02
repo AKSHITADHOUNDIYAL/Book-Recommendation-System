@@ -1,0 +1,5 @@
+/venv
+/.ipynb_checkpoints
+/models/dump_knn
+/models/dump_np
+/models/dump_svd
