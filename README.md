@@ -14,7 +14,7 @@ This Streamlit application provides a book recommendation system with various mo
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/saijayanth59/book_recommender.git
+    git clone https://github.com/AKSHITADHOUNDIYAL/Book-Recommendation-System.git
     cd book_recommender
     ```
 
